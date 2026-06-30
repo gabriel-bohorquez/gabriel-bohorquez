@@ -1,16 +1,48 @@
-## Hi there 👋
+# Gabriel Bohorquez
 
-<!--
-**gabriel-bohorquez/gabriel-bohorquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business / People / Operations Data Analyst
 
-Here are some ideas to get you started:
+Transforming HR, People and Operations data into actionable insights through analytics, machine learning, process optimization and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Spain
+
+📧 gabrieleb76@gmail.com
+
+💼 LinkedIn: [linkedin.com/in/eb20](https://www.linkedin.com/in/eb20/)
+---
+
+## Core Skills
+
+- Data Analysis
+- Business Analytics
+- People Analytics
+- Operations Analytics
+- Machine Learning
+- Process Optimization
+- Data Visualization
+- KPI Reporting
+- SQL
+- Python
+- Tableau
+- Power BI
+- Streamlit
+- Git & GitHub
+- ---
+
+## Featured Projects
+
+### HR Process Automation Scanner
+End-to-end analytics application that analyzes HR processes, estimates automation potential, recommends implementation priority, and calculates potential time savings.
+**Tech:** Python, Machine Learning, Streamlit, Tableau
+
+---
+
+### HR SLA Breach Prediction
+Machine learning model that predicts HR ticket SLA breaches, helping teams proactively prioritize high-risk cases.
+**Tech:** Python, Scikit-learn, Pandas, Streamlit
+
+---
+
+### Vanguard A/B Test Analysis
+End-to-end statistical analysis of a digital experiment, including hypothesis testing, business insights, and interactive Tableau dashboard.
+**Tech:** Python, Pandas, SciPy, Tableau
