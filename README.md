@@ -8,7 +8,7 @@ Transforming HR, People and Operations data into actionable insights through ana
 
 📧 gabrieleb76@gmail.com
 
-💼 LinkedIn: [linkedin.com/in/eb20](https://www.linkedin.com/in/eb20/)
+💼 LinkedIn: [linkedin.com/in/gabriel-bohorquez)
 ---
 
 ## Core Skills
